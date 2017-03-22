@@ -1,7 +1,7 @@
-#In this file, I will be displaying codes of a simply first time website.
+#In this file, I will be displaying codes of a simple first time website.
 #This website will contain a brief bio of myself and my future goals.
 #I will showcase basic syntax structure within html including a picture link to this github account.
-#I will include a link of completed website which is hosted by a free online hosting site called 000webhost.com
+#I will include a link of a completed website which is hosted by a free online hosting site called 000webhost.com
 
 <!DOCTYPE html>
 <html>
