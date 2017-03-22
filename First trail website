@@ -1,0 +1,38 @@
+#In this file, I will be displaying codes of a simply first time website.
+#This website will contain a brief bio of myself and my future goals.
+#I will showcase basic syntax structure within html including a picture link to this github account.
+#I will include a link of completed website which is hosted by a free online hosting site called 000webhost.com
+
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+</head>
+<body>
+  <p>This is My first shot at a simple html website!</p>
+  <h1>Welcome to my homepage!</h1>
+  <h2>Some info about me</h2>
+  
+  <p2>Hi, my name is Sarah. I am 26 years old, with a BA in Political
+  Science from Stony Brook University. I am currently applying to grad
+  school for MS in Analytics and Data Analysis. I am also trying to
+  pursure a transition in jobs from hospitality and front desk, to tech.
+  My goals are to become a web developer while in school to help
+  transition into my prospective career, and to become a overall better
+  coder. I hope you enjoy my journey!</p2>
+  <br>
+  <br>
+  <p3>Here is an outline of my basic goals for the next year:</p3>
+  <ul>
+    <li>To learn html, css, and javascript</li>
+    <li>To change jobs from Front Desk to Web Developer</li>
+    <li>To attend Graduate School fall 2017.</li>
+  </ul>
+  <p4>Click image below to view github account!</p4>
+  <br>
+  <a href="https://github.come/araya90" target=_"blank">
+    <img src="https://tinyurl.com/mdnjpav" /></a>
+    </body>
+    </html>
+    
+    #The completed project link is below.
+    #https://saraharaya90.000webhostapp.com/trail1.html
